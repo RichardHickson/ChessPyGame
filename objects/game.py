@@ -1,9 +1,9 @@
 import pygame
 
-from constants import *
-from board import Board
-from pieces import *
-from square import Square
+from objects.constants import *
+from objects.board import Board
+from objects.pieces import *
+from objects.square import Square
 
 class Game:
     def __init__(self):

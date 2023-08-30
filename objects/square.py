@@ -1,6 +1,6 @@
 import pygame
-from constants import *
-from pieces import *
+from objects.constants import *
+from objects.pieces import *
 
 class Square:
     def __init__(self, row, col, piece = None, rect = None):

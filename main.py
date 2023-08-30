@@ -1,8 +1,8 @@
 import pygame
 
-from constants import *
-from game import Game
-from pieces import *
+from objects.constants import *
+from objects.game import Game
+from objects.pieces import *
 
 class Main:
     def __init__(self):

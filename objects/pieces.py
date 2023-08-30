@@ -1,5 +1,5 @@
 import pygame
-from constants import *
+from objects.constants import *
 import os
 
 class Piece:

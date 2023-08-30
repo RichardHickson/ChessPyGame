@@ -1,6 +1,6 @@
 import pygame
-from constants import *
-from square import Square
+from objects.constants import *
+from objects.square import Square
 
 class Board:
     def __init__(self):
